@@ -10,8 +10,13 @@
 I have a passion for backend development, particularly with Python, Java, and JavaScript. I'm constantly learning new technologies and languages to expand my skill set. Currently, I'm diving into Roast, Ruby and Dart to explore their capabilities and applications.
 
 ### Projects
+## SkuulCalndy Preview
 ![SkuulCalndy Preview](https://drive.google.com/uc?id=1xPYM4vAyvGzxK1jZHpskIPWFsr2TVgPZ)
+
+## Juan Piece Preview
 ![Juan Piece Preview](https://drive.google.com/uc?id=1kyhiAg0CcG2o_tmc6U_zcvrZI5uiaxNe)
+
+## AlertMe
 ![AlertMe](https://drive.google.com/uc?id=1OZEV-nEy5BbRDh1ylGgUpJpuTvMSYZJr)
 
 - **Skuul2Canldy:** Users can register as new members, browse and purchase merchandise from the online store, or opt for a subscription, granting access to a rich music library. PHP, JS, ALPINEJS, TAILWIND, MYSQL, PHPMVC
@@ -19,13 +24,13 @@ I have a passion for backend development, particularly with Python, Java, and Ja
 
  ## 🛠 Skills
 
-- Python
-- Java
-- JavaScript
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) Java
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
+- ![Roast](https://img.shields.io/badge/Roast-DD0031?style=for-the-badge&logo=roast&logoColor=white) Roast (Learning)
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) Dart (Learning)
 - Relational and Non Relational Databases : MongoDB, PostgreSQL, MySql
 - PHP
-- Roast (Learning)
-- Dart (Learning)
 
 ### Interests
 
