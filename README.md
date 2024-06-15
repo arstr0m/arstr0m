@@ -1,4 +1,4 @@
-## 👋 Sup, this is arstr0m!
+## 👋 Yo!
 
 - 👀 I'm interested in backend development with Python, Java, and JavaScript.
 - 🌱 I'm currently learning Roast and Dart.
