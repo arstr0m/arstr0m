@@ -1,9 +1,9 @@
 ## 👋 Yo!
 
-- 👀 I'm interested in backend development with Python, Java, and JavaScript.
+- 👨🏽‍💻 I'm a backend engineer experienced in Python, Java, and JavaScript.
 - 🌱 I'm currently learning Roast and Dart.
 - 🗣️ I speak 🇺🇸 & 🇪🇸
-- 💼 I enjoy mobile app development and programming in general.
+- 💼 I enjoy backend, mobile app development and programming in general.
 
 ### 🚀 About Me
 
