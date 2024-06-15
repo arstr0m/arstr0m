@@ -10,7 +10,7 @@
 
 ---
 
-### About Me
+### 🚀 About Me
 
 I have a passion for backend development, particularly with Python, Java, and JavaScript. I'm constantly learning new technologies and languages to expand my skill set. Currently, I'm diving into Roast and Dart to explore their capabilities and applications.
 
@@ -19,7 +19,7 @@ I have a passion for backend development, particularly with Python, Java, and Ja
 - **Skuul2Canldy:** Users can register as new members, browse and purchase merchandise from the online store, or opt for a subscription, granting access to a rich music library. PHP, JS, ALPINEJS, TAILWIND, MYSQL, PHPMVC
 - **BUsiness Management** The platform comprises four key modules: sales, customers, products, and warehouse management. These provides a comprehensive oversight and control over its operations, facilitating the monitoring of various processes within the business ecosystem. C#, MSQL
 
-### Skills
+ ## 🛠 Skills
 
 - Python
 - Java
@@ -38,4 +38,8 @@ I have a passion for backend development, particularly with Python, Java, and Ja
 
 Feel free to reach out to me on [GitHub](https://github.com/arstr0m) if you'd like to collaborate on projects or discuss anything related to programming and technology!
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
