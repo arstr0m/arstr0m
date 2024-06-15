@@ -29,8 +29,9 @@ I have a passion for backend development, particularly with Python, Java, and Ja
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
 - ![Roast](https://img.shields.io/badge/Roast-DD0031?style=for-the-badge&logo=roast&logoColor=white) Roast (Learning)
 - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) Dart (Learning)
-- Relational and Non Relational Databases : MongoDB, PostgreSQL, MySql
-- PHP
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) Flutter
+- Relational and Non Relational Databases : MongoDB, PostgreSQL, MySql ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQLITE] (https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) PHP 
 
 ### Interests
 
@@ -40,7 +41,7 @@ I have a passion for backend development, particularly with Python, Java, and Ja
 
 ### Let's Connect!
 
-Feel free to reach out to me on [GitHub](https://github.com/arstr0m) if you'd like to collaborate on projects or discuss anything related to programming and technology!
+Feel free to reach out to me on [Mail](https://github.com/arstr0m) if you'd like to collaborate on projects or discuss anything related to programming and technology!
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
