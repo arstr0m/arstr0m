@@ -4,17 +4,15 @@
 - 🌱 I'm currently learning Roast and Dart.
 - 💼 I enjoy mobile app development and programming in general.
 
-### 📫 How to reach me
 
-- GitHub: [arstr0m](https://github.com/arstr0m)
-
----
 
 ### 🚀 About Me
 
 I have a passion for backend development, particularly with Python, Java, and JavaScript. I'm constantly learning new technologies and languages to expand my skill set. Currently, I'm diving into Roast and Dart to explore their capabilities and applications.
 
 ### Projects
+![SkuulCalndy Preview]([URL_de_la_image](https://photos.app.goo.gl/comncZydcRQoyU1b7))
+
 
 - **Skuul2Canldy:** Users can register as new members, browse and purchase merchandise from the online store, or opt for a subscription, granting access to a rich music library. PHP, JS, ALPINEJS, TAILWIND, MYSQL, PHPMVC
 - **BUsiness Management** The platform comprises four key modules: sales, customers, products, and warehouse management. These provides a comprehensive oversight and control over its operations, facilitating the monitoring of various processes within the business ecosystem. C#, MSQL
@@ -24,6 +22,7 @@ I have a passion for backend development, particularly with Python, Java, and Ja
 - Python
 - Java
 - JavaScript
+- Relational and Non Relational Databases : MongoDB, PostgreSQL, MySql
 - PHP
 - Roast (Learning)
 - Dart (Learning)
