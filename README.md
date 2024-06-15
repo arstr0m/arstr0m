@@ -12,9 +12,7 @@ I have a passion for backend development, particularly with Python, Java, and Ja
 ### Projects
 ## SkuulCalndy Preview
 ![SkuulCalndy Preview](https://drive.google.com/uc?id=1xPYM4vAyvGzxK1jZHpskIPWFsr2TVgPZ)
-
-## Juan Piece Preview
-![Juan Piece Preview](https://drive.google.com/uc?id=1kyhiAg0CcG2o_tmc6U_zcvrZI5uiaxNe)
+![Skuul2](https://drive.google.com/uc?id=1JStKkV7GT08MyHuWBkGmnDBKNG6hDKQU)
 
 ## AlertMe
 ![AlertMe](https://drive.google.com/uc?id=1OZEV-nEy5BbRDh1ylGgUpJpuTvMSYZJr)
@@ -30,7 +28,7 @@ I have a passion for backend development, particularly with Python, Java, and Ja
 - ![Roast](https://img.shields.io/badge/Roast-DD0031?style=for-the-badge&logo=roast&logoColor=white) Roast (Learning)
 - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) Dart (Learning)
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) Flutter
-- Relational and Non Relational Databases : MongoDB, PostgreSQL, MySql ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQLITE] (https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+- ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) Relational and Non Relational Databases : MongoDB, PostgreSQL, MySql 
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) PHP 
 
 ### Interests
