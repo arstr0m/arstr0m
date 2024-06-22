@@ -1,7 +1,7 @@
 ## 👋 Yo!
 
 - 👨🏽‍💻 I'm a backend engineer experienced in Python, Java, and JavaScript.
-- 🌱 I'm currently learning Roast and Dart.
+- 🌱 I'm currently learning Go and Dart.
 - 🗣️ I speak 🇨🇦 & 🇪🇸
 - 💼 I enjoy backend, mobile app development and programming in general.
 
@@ -11,11 +11,11 @@ I have a passion for backend development, particularly with Python, Java, and Ja
 
 ### Projects
 ## SkuulCalndy Preview
-![SkuulCalndy Preview](https://drive.google.com/uc?id=1xPYM4vAyvGzxK1jZHpskIPWFsr2TVgPZ)
-![Skuul2](https://drive.google.com/uc?id=1JStKkV7GT08MyHuWBkGmnDBKNG6hDKQU)
+![SkuulCalndy Preview](https://drive.google.com/uc?id=1xPYM4vAyvGzxK1jZHpskIPWFsr2TVgPZ){: width=150 height=100 style="float:right; padding:16px"} 
+![Skuul2](https://drive.google.com/uc?id=1JStKkV7GT08MyHuWBkGmnDBKNG6hDKQU){: width=150 height=100 style="float:right; padding:16px"} 
 
 ## AlertMe
-![AlertMe](https://drive.google.com/uc?id=1OZEV-nEy5BbRDh1ylGgUpJpuTvMSYZJr)
+![AlertMe](https://drive.google.com/uc?id=1OZEV-nEy5BbRDh1ylGgUpJpuTvMSYZJr){: width=150 height=100 style="float:right; padding:16px"} 
 
 - **Skuul2Canldy:** Users can register as new members, browse and purchase merchandise from the online store, or opt for a subscription, granting access to a rich music library. PHP, JS, ALPINEJS, TAILWIND, MYSQL, PHPMVC
 - **BUsiness Management** The platform comprises four key modules: sales, customers, products, and warehouse management. These provides a comprehensive oversight and control over its operations, facilitating the monitoring of various processes within the business ecosystem. C#, MSQL
@@ -23,6 +23,13 @@ I have a passion for backend development, particularly with Python, Java, and Ja
  ## 🛠 Skills
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python
+- ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) Spark
+- ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) Hadoop
+- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) FastApi
+- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) Flask
+- ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) Kafka
+- [Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) Django
+- ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) Ruby
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) Java
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
 - ![Roast](https://img.shields.io/badge/Roast-DD0031?style=for-the-badge&logo=roast&logoColor=white) Roast (Learning)
@@ -35,7 +42,7 @@ I have a passion for backend development, particularly with Python, Java, and Ja
 
 - Backend Development
 - Mobile App Development
-- Open Source Projects
+- CyberSecurity
 
 ### Let's Connect!
 
