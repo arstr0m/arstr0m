@@ -11,11 +11,17 @@ I have a passion for backend development, particularly with Python, Java, and Ja
 
 ### Projects
 ## SkuulCalndy Preview
-![SkuulCalndy Preview](https://drive.google.com/uc?id=1xPYM4vAyvGzxK1jZHpskIPWFsr2TVgPZ){: width=150 height=100 style="float:right; padding:16px"} 
-![Skuul2](https://drive.google.com/uc?id=1JStKkV7GT08MyHuWBkGmnDBKNG6hDKQU){: width=150 height=100 style="float:right; padding:16px"} 
+<p align="right" style="padding:16px">
+  <img src="https://drive.google.com/uc?id=1xPYM4vAyvGzxK1jZHpskIPWFsr2TVgPZ" alt="SkuulCalndy Preview" width="150" height="100">
+  <img src="https://drive.google.com/uc?id=1JStKkV7GT08MyHuWBkGmnDBKNG6hDKQU" alt="Skuul2" width="150" height="100">
+</p>
+
 
 ## AlertMe
-![AlertMe](https://drive.google.com/uc?id=1OZEV-nEy5BbRDh1ylGgUpJpuTvMSYZJr){: width=150 height=100 style="float:right; padding:16px"} 
+<p align="right" style="padding:16px">
+  <img src="https://drive.google.com/uc?id=1OZEV-nEy5BbRDh1ylGgUpJpuTvMSYZJr" alt="AlertMe" width="150" height="100">
+</p>
+
 
 - **Skuul2Canldy:** Users can register as new members, browse and purchase merchandise from the online store, or opt for a subscription, granting access to a rich music library. PHP, JS, ALPINEJS, TAILWIND, MYSQL, PHPMVC
 - **BUsiness Management** The platform comprises four key modules: sales, customers, products, and warehouse management. These provides a comprehensive oversight and control over its operations, facilitating the monitoring of various processes within the business ecosystem. C#, MSQL
