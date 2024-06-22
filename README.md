@@ -11,15 +11,15 @@ I have a passion for backend development, particularly with Python, Java, and Ja
 
 ### Projects
 ## SkuulCalndy Preview
-<p align="right" style="padding:16px">
-  <img src="https://drive.google.com/uc?id=1xPYM4vAyvGzxK1jZHpskIPWFsr2TVgPZ" alt="SkuulCalndy Preview" width="150" height="100">
-  <img src="https://drive.google.com/uc?id=1JStKkV7GT08MyHuWBkGmnDBKNG6hDKQU" alt="Skuul2" width="150" height="100">
+<p align="center" style="padding:16px">
+  <img src="https://drive.google.com/uc?id=1xPYM4vAyvGzxK1jZHpskIPWFsr2TVgPZ" alt="SkuulCalndy Preview" width="300" height="200">
+  <img src="https://drive.google.com/uc?id=1JStKkV7GT08MyHuWBkGmnDBKNG6hDKQU" alt="Skuul2" width="300" height="200">
 </p>
 
 
 ## AlertMe
-<p align="right" style="padding:16px">
-  <img src="https://drive.google.com/uc?id=1OZEV-nEy5BbRDh1ylGgUpJpuTvMSYZJr" alt="AlertMe" width="150" height="100">
+<p align="center" style="padding:16px">
+  <img src="https://drive.google.com/uc?id=1OZEV-nEy5BbRDh1ylGgUpJpuTvMSYZJr" alt="AlertMe" width="300" height="200">
 </p>
 
 
