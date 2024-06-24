@@ -9,23 +9,6 @@
 
 I have a passion for backend development, particularly with Python, Java, and JavaScript. I'm constantly learning new technologies and languages to expand my skill set. Currently, I'm diving into Roast, Ruby and Dart to explore their capabilities and applications.
 
-### Projects
-## SkuulCalndy Preview
-<p align="center" style="padding:16px">
-  <img src="https://drive.google.com/uc?id=1xPYM4vAyvGzxK1jZHpskIPWFsr2TVgPZ" alt="SkuulCalndy Preview" width="300" height="200">
-  <img src="https://drive.google.com/uc?id=1JStKkV7GT08MyHuWBkGmnDBKNG6hDKQU" alt="Skuul2" width="300" height="200">
-</p>
-
-
-## AlertMe
-<p align="center" style="padding:16px">
-  <img src="https://drive.google.com/uc?id=1OZEV-nEy5BbRDh1ylGgUpJpuTvMSYZJr" alt="AlertMe" width="300" height="200">
-</p>
-
-
-- **Skuul2Canldy:** Users can register as new members, browse and purchase merchandise from the online store, or opt for a subscription, granting access to a rich music library. PHP, JS, ALPINEJS, TAILWIND, MYSQL, PHPMVC
-- **BUsiness Management** The platform comprises four key modules: sales, customers, products, and warehouse management. These provides a comprehensive oversight and control over its operations, facilitating the monitoring of various processes within the business ecosystem. C#, MSQL
-
  ## 🛠 Skills
 <div style="display: flex; flex-wrap: wrap; justify-content:space-around;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
