@@ -32,7 +32,8 @@ I have a passion for backend development, particularly with Python, Java, and Ja
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </div>
 
-##IDEs I USE
+## IDEs I USE ⌨️
+
 <div style="display: flex; flex-wrap: wrap; justify-content:space-around;">
    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="Pycharm">
   <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" alt="Clion">
