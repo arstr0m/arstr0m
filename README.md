@@ -1,7 +1,6 @@
 ## 👋 Yo!
 
 - 👨🏽‍💻 I'm a backend engineer experienced in Python, Java, and JavaScript.
-- 🌱 I'm currently learning Go and Dart.
 - 🗣️ I speak 🇨🇦 & 🇪🇸
 - 💼 I enjoy backend, mobile app development and programming in general.
 
@@ -30,6 +29,17 @@ I have a passion for backend development, particularly with Python, Java, and Ja
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+</div>
+
+##IDEs I USE
+<div style="display: flex; flex-wrap: wrap; justify-content:space-around;">
+   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="Pycharm">
+  <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" alt="Clion">
+  <img src="https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white" alt="Goland">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" alt="PHPSTORM">
+  <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="WebSTORM">
 </div>
 
 ### Interests
@@ -38,12 +48,4 @@ I have a passion for backend development, particularly with Python, Java, and Ja
 - Mobile App Development
 - CyberSecurity
 
-### Let's Connect!
-
-Feel free to reach out to me on [Mail](https://github.com/arstr0m) if you'd like to collaborate on projects or discuss anything related to programming and technology!
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/arstr0m)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
