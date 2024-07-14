@@ -2,15 +2,17 @@
 
 - 👨🏽‍💻 I'm a backend engineer experienced in Python, Java, and JavaScript.
 - 🗣️ I speak 🇨🇦 & 🇪🇸
-- 💼 I enjoy backend, mobile app development and programming in general.
+- 💼 I enjoy backend, mobile app development, game dev using Unity and programming in general.
 
 ### 🚀 About Me
 
-I have a passion for backend development, particularly with Python, Java, and JavaScript. I'm constantly learning new technologies and languages to expand my skill set. Currently, I'm diving into Roast, Ruby and Dart to explore their capabilities and applications.
+I have a passion for backend development, particularly with Python, Java, and JavaScript. I'm constantly learning new technologies and languages to expand my skill set.
 
  ## 🛠 Skills
 <div style="display: flex; flex-wrap: wrap; justify-content:space-around;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+ <img alt="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+ <img alt="express" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="Spark">
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastApi">
