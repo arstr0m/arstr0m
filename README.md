@@ -2,7 +2,6 @@
 
 - 👨🏽‍💻 I'm a backend engineer experienced in Python, Java, and JavaScript.
 - 🗣️ I speak 🇨🇦 & 🇪🇸
-- 💼 I enjoy backend, mobile app development, game dev using Unity and programming in general.
 
 ### 🚀 About Me
 
@@ -50,5 +49,6 @@ I have a passion for backend development, particularly with Python, Java, and Ja
 - Backend Development
 - Mobile App Development
 - CyberSecurity
+- GameDev
 
 
